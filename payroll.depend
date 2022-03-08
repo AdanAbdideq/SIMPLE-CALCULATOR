@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646746657 source:c:\users\student\documents\maseno\isaac\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1646746658 source:d:\main.c
+	<stdio.h>
+	<stdlib.h>
+
